@@ -1,0 +1,10 @@
+highlighter: pygments
+
+nav:
+  - name: Home
+    path: /
+  - name: Software
+    path: /src
+    menu:
+      - name: containerof
+        path: /src/containerof/containerof
